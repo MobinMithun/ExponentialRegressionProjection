@@ -11,6 +11,8 @@ This Python script utilizes exponential regression to project future values base
 3. **Visualization:** It visualizes both the actual data and the projected values using a bar chart.
 4. **Display Projections:** The script also displays the future projections for the next 4 quarters or months.
 
+<img src="images/download.png">
+
 ## Features
 
 - Supports both quarterly and monthly data input.
@@ -21,8 +23,8 @@ This Python script utilizes exponential regression to project future values base
 ## Requirements
 
 - Python 3.x
-- NumPy
-- Matplotlib
+- NumPy (`!pip install numpy`)
+- Matplotlib (`!pip install matplotlib`)
 
 ## Getting Started
 
