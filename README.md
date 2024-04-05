@@ -26,10 +26,10 @@ This Python script utilizes exponential regression to project future values base
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/MobinMithun/exponential-regression-projection.git`
-2. Navigate to the project directory: `cd exponential-regression-projection`
+1. Clone the repository: `git clone https://github.com/MobinMithun/ExponentialRegressionProjection.git`
+2. Navigate to the project directory: `cd ExponentialRegressionProjection`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the script: `python exponential_regression_projection.py`
+4. Run the script: `python ExponentialRegressionProjection.py`
 
 ## Contributing
 
