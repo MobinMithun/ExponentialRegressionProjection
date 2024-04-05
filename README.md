@@ -16,7 +16,7 @@ This Python script utilizes exponential regression to project future values base
 - Supports both quarterly and monthly data input.
 - Calculates projections using exponential regression.
 - Visualizes data and projections for easy interpretation.
-- Provides clear display of future projections.
+- Provides a clear display of future projections.
 
 ## Requirements
 
@@ -34,11 +34,3 @@ This Python script utilizes exponential regression to project future values base
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Credits
-
-This script was written by [Your Name](https://github.com/your_username).
